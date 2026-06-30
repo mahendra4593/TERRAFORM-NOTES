@@ -1,3 +1,3 @@
-ami_id = "ami-00e801948462f718a"
-instance_type = "t2.medium"
+ami_id = "ami-06067086cf86c58e6"
+instance_type = "t2.micro"
 name = "my-ec2-instance"
